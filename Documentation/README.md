@@ -14,3 +14,4 @@ All relevant documentation concerning the development of the KNN classifier.
   - A presentation used to explain the classifier and how it works, preview the source code, demonstrate the classifier, and evaluate the classifier.
 - Video Link:
   - Contains the YouTube URL for the video presentation of this classifier.
+  - https://www.youtube.com/watch?v=-nZ4HUmL8i0&feature=youtu.be
