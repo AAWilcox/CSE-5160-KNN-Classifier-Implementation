@@ -1,0 +1,7 @@
+Here is the link to the video:
+https://www.youtube.com/watch?v=-nZ4HUmL8i0&feature=youtu.be
+
+I hope that my presentation format is acceptable.
+Instead of trying to fit my code onto slides, I showed my source code in the
+video presentation instead. This is represented in slide 16 of my presentation
+slides, where I then transitioned to my source code and explained it/demonstrated it.
