@@ -48,7 +48,7 @@ Test Set Data:
 - The original data set consists of 210 training instances. Thirty of them are used as a test set, while the remaining 180 became the training set.
 - The thirty test instances were chosen at random, with ten corresponding to Kama wheat seeds, ten corresponding to Rosa wheat seeds, and ten corresponding to Canadian wheat seeds.
 
-Test Results - Test Error
+Test Results - Test Error:
 - To find test error, the KNN classifier was tested using a thirty instance long test set.
 - Four different values of K were used: 5, 10, 15, and 20 nearest neighbors.
 - Results:
@@ -57,14 +57,19 @@ Test Results - Test Error
   - K value 15: Accuracy: 90%, Test Error: 10%
   - K value 20: Accuracy: 87%, Test Error: 13%
 
-Test Results - Training Error
-- To find training error,
-
-
+Test Results - Training Error:
+- To find training error, the KNN classifier was tested using 10 randomly selected training instances.
+- Four different values of K were used: 5, 10, 15, and 20 nearest neighbors.
+- Results:
+  - K value 5:  Accuracy: 100%, Training Error: 0%
+  - K value 10: Accuracy: 100%, Training Error: 0%
+  - K value 15: Accuracy: 100%, Training Error: 0%
+  - K value 20: Accuracy: 100%, Training Error: 0%
 
 <h2>Project status</h2>
 Completed
 
 <h2>Credits</h2>
 
+- Training data provided by UCI's Machine Learning Respository: https://archive.ics.uci.edu/ml/datasets/seeds
 - README.md template: https://gist.github.com/r4dixx/43e51e7d59027b26fefec2b389fc9e53#file-readme-student-md
